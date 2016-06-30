@@ -6,49 +6,44 @@
 
 Beispiele aus dem Berufsumfeld:
 Unstrukturiert:
-	* Kommunikation über diverse Nachrichtendienste (Emails, Skype, Messenger)
-	* Schwarzes Brett
+    * Kommunikation über diverse Nachrichtendienste (Emails, Skype, Messenger)
+    * Schwarzes Brett
 
 Strukturert:
-	* Zeitaufzeichnungen
-	* Urlaubsanträge
+    * Zeitaufzeichnungen
+    * Urlaubsanträge
 
 ###1.2 Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden.
 
 Beispiele aus dem Berufsumfeld:
 Gestreamte Daten:
-	* Übertragungen von Firmenpräsentationen
+  * Übertragungen von Firmenpräsentationen
 
 Batchdaten:
-	* Tägliche Serverlogs
-	
-	
+  * Tägliche Serverlogs
+  
+  
 
 ##Assignment 2: Big Data in Ihrem Umfeld
 
 ###Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark. Installieren Sie die auf Ihrem Arbeitsgerät.
 ###• Erklären Sie ihre Entscheidung
 
-TEXT
+Ich habe bis jetzt keine der beiden Technologien verwendet und mir im Internet (im speziellen: StackOverflow) einen kurzen Überblick verschafft und mich dann kurzerhand für Apache Flink entschieden.  Jedoch ist zu beachten dass beide Tools etwa den gleichen Funktionsumfang haben, aber je nach Aufgabenstellung unterschiedlich zu bewerten sind.
 
 ###• Schicken Sie einen Screenshot der installierten Umgebung mit
 
-TEXT
+![Flink bat](DirektLink)
 
 ###• Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
 
-TEXT
-
-##Assignment 3: Big Data in Ihrem Umfeld
-###Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch. 
-###• 2 Punkte für Programm
-###• 2 Punkte, wenn das Programm auch ausführbar ist.
+Ich verwende größtenteils Netbeans oder Eclipse, da Flink jedoch unter Maven lauffähig ist und Maven Projekte (aus meiner Erfahrung) in Eclipse komplizierter zu verwalten sind, würde ich Netbeans verwenden. Hierfür müssten nur die richtigen Maven Dependencies hinzugefügt werden und man erspart sich gegenüber von Eclipse einen größeren Arbeitsaufwand.
 
 #Data Science 
 ##Assignment 1: Technologien
 
 ###1.1 Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). 
-Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein)
+###Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein)
 
 Besonders bekannt ist hierbei Scala und Matlab, jedoch kann z.B. auch Mathematika für Datenanalyse verwendet werden.
 
@@ -60,13 +55,14 @@ Ich würde zu Python tendieren. Zwar bin ich geübt im Umgang mit R, jedoch bietet
 ##Assignment 2: Technologien
 ###Entscheiden Sie sich für eine Data Science Plattform. R oder Python Installieren Sie die auf Ihrem Arbeitsgerät.
 ###• Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
-TEXT
+Wie bereits bei Punkt 1.2 beschrieben: ich würde zu Python tendieren da diese Technologie die nötige Flexibilität und Funktionalität besitzt. Jedoch hängt die Wahl der Technologie immer von der Aufgabenstellung selbst ab. Für kleinere Aufgaben würde ich dann z.B. Matlab verwenden, da dies auch gleichzeitig ein mächtiges Visualisierungstool ist und meine Vorkentnisse hierfür ausreichen sollten.
 
 ###• Schicken Sie einen Screenshot der installierten Umgebung mit
-TEXT
+![Python Hello World](DirektLink)
 
 ###• Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
-TEXT
+Für kleine und einfache Projekte reicht oft schon Notepad++ mit den richtigen PlugIns aus.
+Für größere Projekte kommt es dann immer an ob man für die IDE Geld ausgeben wollen würde oder nicht. Da wir Zugriff auf Studentenversionen von Visual Studio haben und hierfür Python Tools als gratis Extentions angeboten werden, würde ich zu Visual Studio tendieren. Hierbei ist jedoch zu beachten, dass VS nicht crossplattformtauglich ist - ob dies jedoch eine Voraussetzung sein sollte hängt jedoch wieder von der Aufgabenstellung ab.
 
 ##Assignment 3: Big Science
 ###Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet.
