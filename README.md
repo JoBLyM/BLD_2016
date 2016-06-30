@@ -58,7 +58,7 @@ Ich würde zu Python tendieren. Zwar bin ich geübt im Umgang mit R, jedoch bietet
 Wie bereits bei Punkt 1.2 beschrieben: ich würde zu Python tendieren da diese Technologie die nötige Flexibilität und Funktionalität besitzt. Jedoch hängt die Wahl der Technologie immer von der Aufgabenstellung selbst ab. Für kleinere Aufgaben würde ich dann z.B. Matlab verwenden, da dies auch gleichzeitig ein mächtiges Visualisierungstool ist und meine Vorkentnisse hierfür ausreichen sollten.
 
 ###• Schicken Sie einen Screenshot der installierten Umgebung mit
-![Python Hello World](https://raw.githubusercontent.com/JoBLyM/BLD_2016/master/Screenshots/Python.png?raw=true
+![Python Hello World](https://raw.githubusercontent.com/JoBLyM/BLD_2016/master/Screenshots/Python.png?raw=true)
 
 ###• Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
 Für kleine und einfache Projekte reicht oft schon Notepad++ mit den richtigen PlugIns aus.
